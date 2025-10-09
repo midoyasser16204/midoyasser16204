@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://www.vhv.rs/dpng/d/476-4766749_mobile-application-development-mobile-application-development-images-png.png"  />
 </div>
 
 ###
