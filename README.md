@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi, I'm Mohamed Yasser — a passionate Flutter and Kotlin Jetpack Compose developer.<br>I love building modern, beautiful, and high-performance mobile applications with clean architecture, scalable code, and great user experiences.<br><br>💡 What I do:<br><br>Build cross-platform apps using Flutter (Dart)<br><br>Develop native Android UIs with Jetpack Compose<br><br>Apply Clean Architecture, MVVM/MVI, and Dependency Injection<br><br>Focus on writing readable, maintainable, and testable code<br><br>🚀 Always learning, always improving.</p>
+<p align="left"> Hi, I'm <b>Mohamed Yasser</b> 👋<br><br> I'm a passionate <b>Mobile Application Developer</b> specializing in <b>Flutter</b> and <b>Kotlin Jetpack Compose</b>. I enjoy building modern, high-performance mobile applications with clean architecture, scalable code, and exceptional user experiences.<br><br>💡 What I do:<br><br>Build cross-platform apps using Flutter (Dart)<br><br>Develop native Android UIs with Jetpack Compose<br><br>Apply Clean Architecture, MVVM/MVI, and Dependency Injection<br><br>Focus on writing readable, maintainable, and testable code<br><br>🚀 Always learning, always improving.</p>
 
 ###
 
